@@ -1,1 +1,1 @@
-sudo service ssh status | grep -i pid
+service ssh status | grep -i pid
