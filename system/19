@@ -1,2 +1,4 @@
 iptables -P INPUT DROP
 iptables -P OUTPUT DROP
+
+#dropping both input and output to avoid shenanigans

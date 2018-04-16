@@ -1,1 +1,3 @@
 ls -shS $1
+
+#in unix systems folders are also files
